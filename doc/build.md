@@ -1,4 +1,4 @@
-# Installation
+# Building Grin
 
 *Disclaimer: Basic setup for the RPI4, display, SSH, etc. are not shown here.*
 
@@ -27,7 +27,7 @@ echo $latestTag
 ~/.cargo/bin/cargo clean
 ~/.cargo/bin/cargo build --release
 ```
-  * Setup `grin-server.toml` to use TUI
+  * Setup `grin-server.toml` to use TUI.
 
 ```toml
 # whether to run the ncurses TUI (Ncurses must be installed)
