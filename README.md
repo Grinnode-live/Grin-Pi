@@ -1,5 +1,5 @@
 # Pi-Grin
-Pi-Grin is a standalone [Grin](https://github.com/mimblewimble/grin) node which can be built by anyone on the Raspberry Pi.
+Pi-Grin is a standalone Grin node which can be built by anyone on the Raspberry Pi.
 
 ![RPI-4-Grin-Node-PoC](https://aws1.discourse-cdn.com/standard10/uploads/grin/optimized/2X/9/9b6b4826f21743d676d6f0803ea8c64c15466d66_2_499x375.jpeg)
 
@@ -11,6 +11,10 @@ Pi-Grin is a standalone [Grin](https://github.com/mimblewimble/grin) node which 
   * Active fan with heatsink for the RPI4 (*Important!*)
 
 ## Getting Started
+
+To learn more about Grin, see the [Grin Documentation](https://docs.grin.mw/).
+
+To learn more about the Raspberry Pi, see the [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/).
 
 To build Grin on your Raspberry Pi, see the [build docs](doc/build.md).
 
