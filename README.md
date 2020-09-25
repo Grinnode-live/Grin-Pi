@@ -46,13 +46,13 @@ echo $latestTag
 run_tui = true
 ```
 
-To see the TUI on your 3.5" screen, add the following to your `.bashrc` file:
+ * To see the TUI on your 3.5" screen, add the following to your `.bashrc` file:
 
 ```bash
 [[ $(/usr/bin/tty) == "/dev/tty1" ]] && exec /usr/bin/screen -S display
 ```
 
-Now, SSH into your RPI4, connect to your screen session, and run the `grin` binary in `target/release/`. You should see the TUI on your 3.5" display.
+ * Now, SSH into your RPI4, connect to your screen session, and run the `grin` binary in `target/release/`. You should see the TUI on your 3.5" display.
 
 ## Pictures of the Build Process
 
