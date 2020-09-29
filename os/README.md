@@ -1,5 +1,5 @@
 
-# downloaded from https://www.raspberrypi.org/downloads/raspberry-pi-os/
+downloaded from https://www.raspberrypi.org/downloads/raspberry-pi-os/
 
 
 Raspberry Pi OS (32-bit) Lite
