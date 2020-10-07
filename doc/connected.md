@@ -1,5 +1,7 @@
 # List of Puppet Connected Grin-Pi's
 
+Please choose a free certname. 
+
 | Server Only Certnames    | Status |
 | ------------------------ | ------ |
 | rpi4-grin-server-only001 | In Use |
