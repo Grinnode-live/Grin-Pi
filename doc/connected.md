@@ -1,4 +1,4 @@
-# List of Puppet Connected Grin-Pi's
+# List of Puppet Connected Grin-Pis
 
 Please choose a free certname. 
 
