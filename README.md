@@ -1,7 +1,9 @@
 # Grin-Pi
 Grin-Pi is a standalone Grin node which can be built by anyone on the Raspberry Pi.
 
-[<img src="assets/images/build-process/RPI-4-Grin-Node-PoC.jpg?raw=true" height="378" width="504">](assets/images/build-process/RPI-4-Grin-Node-PoC.jpg?raw=true)   
+| Proof of Concept |
+| ---------------- |
+| [<img src="assets/images/build-process/RPI-4-Grin-Node-PoC.jpg?raw=true" height="378" width="504">](assets/images/build-process/RPI-4-Grin-Node-PoC.jpg?raw=true) |   
 
 ## Parts List
 
