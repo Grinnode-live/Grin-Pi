@@ -24,7 +24,7 @@ To build Grin on your Raspberry Pi, see the [build docs](doc/build.md).
 
 | Board | Stickers |
 | ----- | -------- |
-[ <img src="assets/images/build-process/01-build-process.jpg?raw=true" height="189" width="252">](assets/images/build-process/01-build-process.jpg) | [<img src="assets/images/build-process/02-build-process.jpg?raw=true" height="189" width="252">](assets/images/build-process/02-build-process.jpg?raw=true) |
+[ <img src="assets/images/build-process/01-build-process.jpg?raw=true" height="189" width="252">](assets/images/build-process/01-build-process.jpg?raw=true) | [<img src="assets/images/build-process/02-build-process.jpg?raw=true" height="189" width="252">](assets/images/build-process/02-build-process.jpg?raw=true) |
 
 ## Thanks
 Johndavies24 for his help on ARM compilation.
