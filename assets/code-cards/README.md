@@ -8,19 +8,18 @@ To print them go to: https://github.com/Grinnode-live/Grin-Pi/tree/master/assets
 
 ## **Images**
 
-### Clean code cards:
+### Clean code cards
 no text on them.
-#clean
 ![clean code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/clean-code-card.jpg)
 
 ![broken clean code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/clean-code-card-broken.jpg)
 
-### Clean GRIN code cards:
-#GRIN logo included
+### GRIN code cards
+#GRIN logo included - Clean GRIN code cards
 ![GRIN clean code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/code-card-1.jpg)
 
 ### more designs
-#more
+
 ![code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/code-card-broken.jpg)
 
 ![code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/untitled.245.jpg)
