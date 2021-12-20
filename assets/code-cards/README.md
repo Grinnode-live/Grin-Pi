@@ -10,17 +10,17 @@ To print them go to: https://github.com/Grinnode-live/Grin-Pi/tree/master/assets
 
 ### Clean code cards:
 no text on them.
-
+#clean
 ![clean code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/clean-code-card.jpg)
 
 ![broken clean code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/clean-code-card-broken.jpg)
 
 ### Clean GRIN code cards:
-with GRIN logo
-![clean GRIN code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/code-card-1.jpg)
+#GRIN logo included
+![GRIN clean code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/code-card-1.jpg)
 
-### more designes
-
+### more designs
+#more
 ![code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/code-card-broken.jpg)
 
 ![code card](https://github.com/Grinnode-live/Grin-Pi/blob/master/assets/code-cards/images/untitled.245.jpg)
